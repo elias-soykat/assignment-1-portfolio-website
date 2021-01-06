@@ -1,0 +1,114 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    font-weight: 200;
+    height: 20px;
+}
+p{
+    color: dimgray;
+    text-align: left;
+    font-size: 20px;
+}
+.latest{
+    color: #FF8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 95%;
+}
+.top-banner{
+    background-image:   url("images/top-banner.png");
+    background-repeat: no-repeat;
+    margin: 120px 120px 0px 40px ;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background: #FF8165;
+    padding: 20px 45px;
+    border-radius: 7px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.bottom-banner{
+    background-image:   url("images/top-banner.png");
+    background-repeat: no-repeat;
+    margin: 1px 70px 1px 40px ;
+}
+.about{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 200;
+    font-size: 45px;
+}
+.project{
+    text-align: center;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 200;
+    font-size: 42px;
+}
+.working{
+    height: 0%;
+}
+.working img{
+    width: 28%;
+    display: inline-block;
+    padding: 30px;
+    margin left: 10px;
+    float: left;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+    background: white;
+}
+.inquiry img{
+    width: 61%;
+    margin-left: 20%;
+}
+.inquiry h2{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    font-weight: 200;
+    height: 20px;
+    text-align: center;
+}
+.stay p{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.stay h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'robo';
+    color: #363958;
+}
+
+.social{
+    width: 95%;
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+}
+.last{
+
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+
+}
